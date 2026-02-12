@@ -1,0 +1,12 @@
+{
+  "name": "ovvoc-test-pro-20",
+  "version": "1.0.0",
+  "description": "Data processing library with lodash",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "dependencies": {
+    "lodash": "3.10.1"
+  }
+}
